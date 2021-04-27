@@ -15,5 +15,4 @@ public class MainRun {
         menuPrincipal ok = new menuPrincipal();
         ok.setVisible(true);
     }
-    
 }
